@@ -1,0 +1,23 @@
+body{
+  background-color: darksalmon;
+}
+p{
+  font-family: 'Times New Roman', Times, serif;
+  color:rgb(0, 0, 0);
+  font-size: 18px;
+  font-size: 100%;
+  font-style: normal;
+  text-decoration: underline;
+}
+h3{
+  cursor:hand;
+}
+.mag{
+  margin-right: 1cm;
+}
+.fil:hover{
+  filter: blur(2px);
+}
+.foto:hover{
+  filter: contrast(150%);
+}
